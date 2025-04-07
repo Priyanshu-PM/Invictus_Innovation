@@ -34,7 +34,7 @@ const TaskCard = ({
           <div className="text-[30px] -mt-2 font-bold text-black">
           ₹ {count}{isPercentage ? '%' : ''}
           </div>
-        )}
+        )}s
       </div>
 
       {/* Percentage Change */}
